@@ -34,8 +34,6 @@ I'm a final-year **BE Information Technology** student at **Shree Rayeshwar Inst
       <b>Overview:</b> a web application for building habits, with daily streak tracking and progress visualisation — stored in Firebase Firestore and deployed on Firebase Hosting.<br>
       <a href="https://github.com/archana-kadaralli/pro-habit-tracker"><img alt="Repository" src="https://img.shields.io/badge/Repository-6B5B95?style=flat-square&amp;logo=github&amp;logoColor=white"></a>
       <a href="https://pro-habit-tracker-bb9c8.web.app"><img alt="Live demo" src="https://img.shields.io/badge/Live%20demo-5E9E85?style=flat-square&amp;logo=googlechrome&amp;logoColor=white"></a>
-      <br>
-      <img alt="Habit Tracker main screen with the add-habit form" src="https://raw.githubusercontent.com/archana-kadaralli/pro-habit-tracker/main/ss1.png" width="300"> <img alt="Habit Tracker habit list showing streaks, progress bars and Done and Delete controls" src="https://raw.githubusercontent.com/archana-kadaralli/pro-habit-tracker/main/ss2.png" width="300">
     </td>
   </tr>
 </table>
