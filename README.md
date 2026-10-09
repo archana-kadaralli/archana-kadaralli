@@ -58,7 +58,7 @@ I'm a final-year **BE Information Technology** student at **Shree Rayeshwar Inst
 
 **Persistent Systems** — _Internship_
 
-During my Persistent Systems internship I worked on **CoinScan**, Team 5's collaborative currency and coin recognition project. My contributions, completed together with my project team, included:
+During my Persistent Systems internship I worked on **CoinScan**, collaborative coin recognition project. My contributions, completed together with my project team, included:
 
 - Integrating **Gemini AI** with **MySQL** persistence for coin recognition
 - **Contact feedback** capture with email delivery, plus **account isolation and deletion**
